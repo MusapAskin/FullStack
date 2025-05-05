@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.MappingRegistration corsConfig'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

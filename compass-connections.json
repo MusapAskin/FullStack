@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "27ece7a6-a9e4-4e35-b7c7-a58907c06ee7",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1746486502992"
+        }
+      },
+      "favorite": {
+        "name": "MovieAPI",
+        "color": "color3"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://timelord:3kgPnotkKK8sJVRd@cluster0.weypk82.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
